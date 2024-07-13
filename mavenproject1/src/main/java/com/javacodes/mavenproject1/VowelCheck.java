@@ -13,22 +13,15 @@ public class VowelCheck {
 		switch( vowels )
 		{
 			case "a":
-				System.out.println(vowels + ", is a vowel");
-				break;
-				
+			case "A":
 			case "e":
-				System.out.println(vowels + ", is a vowel");
-				break;
-				
+			case "E":
 			case "i":
-				System.out.println(vowels + ", is a vowel");
-				break;
-				
+			case "I":
 			case "o":
-				System.out.println(vowels + ", is a vowel");
-				break;
-				
+			case "O":
 			case "u":
+			case "U":
 				System.out.println(vowels + ", is a vowel");
 				break;
 				
